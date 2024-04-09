@@ -16,7 +16,7 @@
 - Bibliotecas de Python: `requests`, `openpyxl`
 
 ### Instalación
-Clone el repositorio usando: `git clone https://github.com/your-username/JSON-to-Excel-Data-Extractor.git`
+Clone el repositorio usando: `git clone https://github.com/DiegoVill15/JSON-to-Excel-Data-Extractorgit`
 
 ### Instale las dependencias necesarias:
 - `pip install requests openpyxl`
@@ -25,4 +25,3 @@ Clone el repositorio usando: `git clone https://github.com/your-username/JSON-to
 Diego Villalobos - diegovillalobosvalenzuela@gmail.com
 
 Enlace del proyecto: https://github.com/DiegoVill15/JSON-to-Excel-Data-Extractor
-
